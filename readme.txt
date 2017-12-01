@@ -1,6 +1,6 @@
 Promod LIVE V2.20 EU - README
 http://www.codpromod.com
-2014-05-13 <promod [at] codpromod.com>
+2015-05-13 <promod [at] codpromod.com>
 #codpromod @ QuakeNet
 
 Maintained by Ingram
@@ -286,7 +286,6 @@ cg_huddamageiconoffset 128
 cg_huddamageicontime 2000
 developer 0
 phys_gravity -800
-
 com_maxfps 40 - 250
 cl_maxpackets 60 - 100
 compassplayerwidth EQUAL TO compassplayerheight
